@@ -1,5 +1,5 @@
 # EasyLocalize
-EasyLocalize 是一个用于 iOS 国际化的文本工具，帮助你高效地将 Excel 表格中的文案同步到 `.strings` 文件中。
+EasyLocalize 是一个用于 iOS 国际化的文本工具，帮助你高效地将 Excel 表格中的文案拼接到现有的 `.strings` 文件中。
 EasyLocalize helps you efficiently add localized text in iOS development.
 
 ![Demo](output.gif)
