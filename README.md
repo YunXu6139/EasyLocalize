@@ -62,9 +62,6 @@ python localize.py
 生成并写入 fi.strings 成功！
 
 ```
-
----
-
 ---
 
 ## License
